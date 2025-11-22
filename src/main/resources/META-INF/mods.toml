@@ -1,0 +1,10 @@
+modLoader="javafml"
+loaderVersion="[21,)"
+license="MIT"
+
+
+[[mods]]
+mod_id="industrialtech"
+version="1.0.0"
+displayName="IndustrialTech"
+description='''
